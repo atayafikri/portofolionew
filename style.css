@@ -1,0 +1,148 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.atas a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.atas a:hover{
+    color: #5356FF;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    padding-top: 70px;
+}
+
+.kolom{
+    width: 100%;
+    height: 100%;
+}
+
+.kolom h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #E72929;
+}
+
+.foto img{
+    position: relative;
+    width: 80%;
+}
+
+.fotosaya img{
+    border-radius: 30px;
+    margin-top: 80px;
+    width: 70%;
+}
+
+.teks{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -50px;
+}
+
+.teks p{
+    color: #35374B;
+    font-size: 25px;
+    margin-top: 180px;
+}
+
+.teks h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #E72929;
+    margin-top: 100px;
+    margin-bottom: -150px;
+}
+
+.kolom2{
+    margin-top: 90px;
+}
+
+.skill{
+    margin-top: 350px;
+}
+
+.jdl h1{
+    margin-bottom: -100px;
+    margin-top: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #E72929;
+}
+
+.keahlian h5{
+    color: black;
+    font-size: 20px;
+}
+
+.keahlian h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #E72929;
+}
+
+.keahlian span{
+    color: #5356FF;
+}
+
+.cd{
+    margin-top: 250px;
+}
+
+.cd img{
+    border-radius: 30px;
+    width: 80%;
+    margin-top: -180px;
+    margin-bottom: -300px;
+}
+
+.kontak{
+    float: left;
+}
+
+.kontak h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #E72929;
+    font-size: 50px;
+    margin-top: 350px;
+}
+
+.kontak img{
+    margin-top: 100px;
+    width: 70%;
+}
+
+.alamat h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #FFC436;
+    margin-left: 170px;
+}
+
+.alamat2{
+    margin-left: 170px;
+}
+
+.jakarta h3{
+    margin-left: 30px;
+    margin-top: -25.5px;
+}
+
+.mail a{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+}
+
+ .sosial img{
+    margin-top: -20px;
+}
+
+.sosial h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #E72929;
+}
