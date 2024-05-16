@@ -103,7 +103,7 @@ body{
 }
 
 .kontak{
-    float: left;
+    margin-left: -10px;
 }
 
 .kontak h1{
@@ -115,7 +115,7 @@ body{
 
 .kontak img{
     margin-top: 100px;
-    width: 70%;
+    width: 50%;
 }
 
 .alamat h3{
